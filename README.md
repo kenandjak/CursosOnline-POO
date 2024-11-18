@@ -9,6 +9,9 @@
 - Java
 - Interface gráfica com Java Swing
 
-## Licença
+## Padrões de Projeto
+- Singleton
+- Façade
 
+## Licença
 Este projeto está sob a licença MIT.
